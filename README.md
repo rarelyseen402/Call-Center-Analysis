@@ -8,11 +8,11 @@
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 
-### **Project Overview** 🗞️
+🗞️ ### **Project Overview**
 This project showcases an interactive `Excel` dashboard for call center data analytics. It includes data cleaning, analysis with `pivot tables`, and visualization using `slicers` and `charts` to provide actionable insights.
 ![Dashboard-Screenshot](https://github.com/user-attachments/assets/634fd27b-4e0a-4981-a878-ef5a84fadc24)
 
-### **Steps Involved** ♟️
+♟️ ### **Steps Involved**
 1. Cleaned and organized raw call center data.
 2. Used `pivot tables` for analyzing key metrics such as:
    - Calls volume by state
