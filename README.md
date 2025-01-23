@@ -37,7 +37,7 @@ This project showcases an interactive `Excel` dashboard for call center data ana
 - Certain states like `California` and `Texas` have higher call rates,requiring tailored & urgent solutions.
 - Reccuring call reasons (`Billing Queries`) highlight common customer concerns.
 
-### **Recommendations** ⚓
+### **Recommendations**
 1. Implement targeted training for agents to address common negative feedback.
 2. Focus resources on regions with high call rates for better customer engagement.
 3. Analyze frequent call reasons to resolve root issues and improve customer satisfaction. i.e Adopt easier `Billing` options to reduce call traffic.
